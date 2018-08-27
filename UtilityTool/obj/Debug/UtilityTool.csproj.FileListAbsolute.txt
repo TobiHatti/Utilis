@@ -1,0 +1,9 @@
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\bin\Debug\UtilityTool.exe.config
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\bin\Debug\UtilityTool.exe
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\bin\Debug\UtilityTool.pdb
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\obj\Debug\UtilityTool.csprojResolveAssemblyReference.cache
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\obj\Debug\UtilityTool.Properties.Resources.resources
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\obj\Debug\UtilityTool.csproj.GenerateResource.Cache
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\obj\Debug\UtilityTool.exe
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\obj\Debug\UtilityTool.pdb
+R:\Users\Tobias\Desktop\UtilityTool\UtilityTool\obj\Debug\UtilityTool.UtilisForm.resources
